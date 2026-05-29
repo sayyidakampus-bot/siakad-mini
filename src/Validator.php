@@ -1,3 +1,4 @@
+// Diperuntukkan Validasi input form
 <?php
 
 class Validator
