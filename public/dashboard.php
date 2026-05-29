@@ -1,4 +1,3 @@
-// Kode Program untuk menampilkan Dashboard pada SIAKAD 
 <?php
 
 require_once '../src/Auth.php';
