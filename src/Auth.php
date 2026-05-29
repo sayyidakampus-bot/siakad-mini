@@ -1,3 +1,4 @@
+// Sistem pengecekan Session Login
 <?php
 
 session_start();
