@@ -1,3 +1,4 @@
+// Kode program untuk mengambil data dosen dari database
 <?php
 
 require_once __DIR__ . '/../config/database.php';
