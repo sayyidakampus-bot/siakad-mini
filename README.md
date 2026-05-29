@@ -41,7 +41,8 @@ siakad-mini/
 ├── src/
 ├── public/
 ├── uploads/
-└── README.md
+├── README.md
+└── seed.sql
 ```
 
 ---
