@@ -1,4 +1,3 @@
-// Proses Autentikasi User 
 <?php
 
 require_once '../src/Auth.php';
